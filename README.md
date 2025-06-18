@@ -39,8 +39,4 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourhandle)  
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
----
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FF6F00&center=true&width=435&lines=Tech-driven+problem+solver;Code+like+Tony+Stark+%F0%9F%A6%BE;Open+to+collaboration+%F0%9F%92%A1;Always+learning+new+techs" />
-</p>
