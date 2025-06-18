@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Zhanibek ⚙️</h1>
-<h3 align="center">"Sometimes you gotta run before you can walk." – Tony Stark</h3>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300" alt="Iron Man GIF"/>
@@ -11,9 +11,7 @@
 
 - 🎓 IT student & tech enthusiast
 - 🧰 Backend Developer — Python | Django | PostgreSQL
-- 🕵️ Currently working on: IT market analytics platform (trends, startups, AI)
 - 🚀 Inspired by innovation, automation, and future tech
-- 🤖 Dreaming to build something that matters, like Stark Industries (but open-source)
 
 ---
 
