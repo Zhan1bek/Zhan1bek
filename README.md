@@ -17,8 +17,8 @@
 ---
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-  <img src="https://leetcard.jacoblin.cool/Zhan1bek?theme=dark&font=Fira+Code&ext=heatmap" height="250" alt="LeetCode Stats" style="border-radius: 15px; box-shadow: 0 40px 100px rgba(255, 255, 255, 0.1);" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhan1bek&layout=compact&theme=radical" height="250" alt="Top Languages" /> 
+  <img src="https://leetcard.jacoblin.cool/Zhan1bek?theme=dark&font=Fira+Code&ext=heatmap" height="200" alt="LeetCode Stats" style="border-radius: 15px; box-shadow: 0 40px 100px rgba(255, 255, 255, 0.1);" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhan1bek&layout=compact&theme=radical" height="200" alt="Top Languages" /> 
 </div>
 
 ---
